@@ -1,3 +1,3 @@
 # Courses
 
-This folder includes the Data Science Specilization courese that are provided by University of Michigan.
+This folder includes the Applied Data Science with Python Specialization courses that are provided by University of Michigan.

@@ -1,6 +1,7 @@
 # Courses
 
-This folder includes the Applied Data Science with Python Specialization courses that are provided by University of Michigan.
+This folder includes the Applied Data Science with Python Specialization courses that are provided by University of Michigan. (https://www.coursera.org/specializations/data-science-python)
+
 
 
 01_Introduction to Data Science in Python

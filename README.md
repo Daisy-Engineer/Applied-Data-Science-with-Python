@@ -4,7 +4,7 @@ This folder includes the Applied Data Science with Python Specialization courses
 
 
 
-01_Introduction to Data Science in Python 
+01_Introduction to Data Science in Python \n
 (https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)
 
 02_Applied Plotting, Charting & Data Representation in Python 
